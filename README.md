@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Technology
 - 🌱 I’m currently learning Cryptography
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me zenxdev@gmail.com
+- 📫 How to reach me ghst2210@gmail.com
 
 <!---
 Gh0sts666/Gh0sts666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
