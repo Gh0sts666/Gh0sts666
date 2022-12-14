@@ -1,7 +1,7 @@
 Hi, I am Gh0sts666.<br>
 I am <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> bug hunter.
 
-My main programming language is:
+My main programming language is:<br>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
 I also study:<br>
